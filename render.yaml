@@ -1,7 +1,7 @@
 databases:
   - name: render-test
     databaseName: render_test_production
-    user: postgres
+    user: render-test
 
 services:
   - type: web
